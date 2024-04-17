@@ -1,4 +1,4 @@
-package sample;
+package keywordproblems;
 
 public class MultithreadingScenario1 {
 

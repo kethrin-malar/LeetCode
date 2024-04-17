@@ -1,3 +1,5 @@
+//1832. Check if the Sentence Is Pangram
+
 package sample;
 
 import java.util.HashSet;
@@ -6,7 +8,7 @@ public class Pangram {
 
 	public static void main(String[] args) {
 
-		String sentence1 = "abc";
+		String sentence1 = "abcdefghijklmnopqrstuvwxyz";
 
 		System.out.println("Sentence 1 is a pangram: " + checkIfPangram(sentence1));
 

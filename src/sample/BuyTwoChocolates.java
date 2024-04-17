@@ -1,3 +1,5 @@
+//2706. Buy Two Chocolates
+
 package sample;
 
 import java.util.Arrays;

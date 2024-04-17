@@ -1,3 +1,5 @@
+//1763. Longest Nice Substring
+
 package sample;
 
 public class LongestNiceSubstring {
