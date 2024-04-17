@@ -16,7 +16,7 @@ public class BuyTwoChocolates {
 
  public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	 int[] prices = {3,2,3};
+	 int[] prices = {2,0,2};
 	 int money = 3;
 	 BuyTwoChocolates choco = new BuyTwoChocolates();
 	 int result = choco.buyChoco(prices,money);

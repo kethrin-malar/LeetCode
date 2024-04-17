@@ -20,7 +20,7 @@ public class CenterStarGraph {
 	}
 
 	public static void main(String[] args) {
-		int[][] edges = { { 1, 2 }, { 2, 3 }, { 4, 2 } };
+		int[][] edges = { { 1, 2 }, { 2, 3}, { 8, 9} };
 		CenterStarGraph obj = new CenterStarGraph();
 		int result = obj.findCenter(edges);
 		System.out.println("CenterStarGraph:" + result);
