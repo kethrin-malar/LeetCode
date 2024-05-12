@@ -29,7 +29,7 @@ public class JewelsStones {
 	public static void main(String[] args) {
 
 		JewelsStones obj = new JewelsStones();
-		String jewels = "Z";
+		String jewels = "z";
 		String stones = "zzzz";
 		int result = obj.numJewelsInStones(jewels, stones);
 		System.out.println("Jewels and Stones: " + result);
